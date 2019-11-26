@@ -1,5 +1,5 @@
 def show
-	puts"vkdl"
+	puts"change four"
 end
 
 show
