@@ -1,5 +1,5 @@
 def wellcome
-	puts "hello"
+	puts "hedllo"
 end
 
 wellcome
